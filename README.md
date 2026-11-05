@@ -1,10 +1,9 @@
-# Thanaphat Khunphet (ธนภัทร ขุนเพชร)
+# Thanaphat Khunphet
 
 **Junior Full-Stack Developer** · Bangkok, Thailand  
 Portfolio: **[thanaphat-ku.is-a.dev](https://thanaphat-ku.is-a.dev)** · Email: **[thanaphat3254@gmail.com](mailto:thanaphat3254@gmail.com)**
 
-Full-stack developer building web applications end to end with **React, TypeScript, Vue 3, Go, Node.js, and PostgreSQL/MariaDB**. B.Sc. in Information Technology & Digital Innovation (Walailak University, GPA 3.18) with software engineering internships at **proALPHA** (enterprise ERP) and **GIS Group** (healthcare systems).
-
+Full-stack developer building web applications end to end with **React, TypeScript, Vue 3, Go, Node.js, and PostgreSQL/MariaDB**.
 ---
 
 ### Featured Projects
